@@ -1,4 +1,4 @@
-backend/
+back/
 ├── routes/
 │   └── auth.js           # 인증 관련 라우터 (회원가입, 로그인 API)
 ├── models/
