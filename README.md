@@ -5,3 +5,4 @@ backend/
 │   └── users.js          # 사용자 DB 쿼리 함수 모듈
 ├── db.js                 # MySQL 연결 설정 및 모듈화
 └── server.js             # Express 서버 실행 및 라우터 연결
+
